@@ -85,7 +85,4 @@ apps/
   backend/    # Express server, Claude API integration, Google Calendar booking logic
   frontend/   # React chat widget / website UI
 ```
-
-## License
-
-[Add your license here]
+ 
